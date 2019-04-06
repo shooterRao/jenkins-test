@@ -31,7 +31,7 @@
 
 <script>
 export default {
-  name: 'Hello Jenkins',
+  name: 'Hello Jenkins!',
   props: {
     msg: String
   }
