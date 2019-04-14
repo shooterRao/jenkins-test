@@ -8,6 +8,10 @@
     <SvgIcon iconClass="icon-sousuo"/>
     <SvgIcon iconClass="icon-refresh"/>
     <SvgIcon iconClass="icon-item"/>
+    <div>
+      <SvgIcon iconClass="icon-peradd"/>
+      <span style="margin-left: 5px">用户名</span>
+    </div>
   </div>
 </template>
 
